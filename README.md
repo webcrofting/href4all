@@ -1,4 +1,6 @@
 href4all
 ========
 
-A JS library that allows you to attach href attributes to arbitrary elements to make them anchors
+A JS library that allows you to attach href attributes to arbitrary elements to make them anchors.
+
+Inspired by http://www.onderhond.com/blog/html-links-are-broken
